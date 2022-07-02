@@ -9,8 +9,9 @@
 ## Demo
 Our chatbot is at lower right corner, click it and start to chat with it :)
 
+---
 
-> If the chatbot is down, please tell us!
+**PS**: If the chatbot is down, please tell us!
 
 
 
