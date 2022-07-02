@@ -1,10 +1,16 @@
-# Conversational AI Workshop: History Agent
+
 ## Authors
 - [Johnanes Getzner](https://github.com/JohannesGetzner)
 - [Tao Xiang](https://github.com/yunshu67)
 - [Yaqi Zhang](https://github.com/zhangyaqi20)
 - [Xuexing Zhao](https://github.com/xuexingzxx)
 
+
+## Demo
+Our chatbot is at lower right corner, click it and start to chat with it :)
+
+
+> If the chatbot is down, please tell us!
 
 
 
