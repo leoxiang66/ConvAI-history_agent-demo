@@ -22,7 +22,8 @@ Our chatbot is at lower right corner, click it and start to chat with it :)
 
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
 <df-messenger
-  chat-title="History-Agent"
-  agent-id="d9e4002d-a961-4052-b878-ea93608f5d0e"
+  intent="WELCOME"
+  chat-title="history-agent"
+  agent-id="b9faa416-2fdc-4361-a4df-06840ee805c4"
   language-code="en"
 ></df-messenger>
