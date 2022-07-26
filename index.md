@@ -3,7 +3,7 @@
 
 ## Authors
 - [Johnanes Getzner](https://github.com/JohannesGetzner)
-- [Tao Xiang](https://github.com/yunshu67)
+- [Tao Xiang](https://github.com/leoxiang66)
 - [Yaqi Zhang](https://github.com/zhangyaqi20)
 - [Xuexing Zhao](https://github.com/xuexingzxx)
 
